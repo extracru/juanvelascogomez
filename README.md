@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=juanvelascogomezu&show_icons=true" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvelascogomez)](https://github.com/juanvelascogomez/github-readme-stats)
 
 - 👋 Hi, I’m @juanvelascogomez
 - 👀 I’m interested in ...
