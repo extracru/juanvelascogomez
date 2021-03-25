@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=juanvelascogomezu&show_icons=true" />
+</p>
+
 - 👋 Hi, I’m @juanvelascogomez
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
